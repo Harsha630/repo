@@ -15,7 +15,7 @@
     <snapshotRepository>
          <id>snapshots</id>
          <name>snapshot Repository</name>
-         <url>http://ec2-34-215-185-166.us-west-2.compute.amazonaws.com:8080/nexus/content/repositories/snapshots/</url>
+         <url>http://ec2-52-36-167-39.us-west-2.compute.amazonaws.com:8080/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
   <name>Maven Webapp</name>
